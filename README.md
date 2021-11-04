@@ -1,4 +1,4 @@
-# Software de Javier Gutiérrez Chamorro
+# Javier Gutiérrez Chamorro
 
 ## Links
 
@@ -20,4 +20,4 @@
 [Sourceforge](https://www.sourceforge.net/projects/nikkhokkho)
 [Yandex](https://yandex.ru/profile/145631406310)
 [Youtube](https://www.youtube.com/channel/UC3duqMzwD3gT1kJjOzCy-Iw?sub_confirmation=1)
-[Guardatiempo](https://guardatiempo.wordpress.com/)
+[Guardatiempo](https://guardatiempo.wordpress.com)
